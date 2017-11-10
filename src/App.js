@@ -10,7 +10,7 @@ class App extends Component {
           <img src={logo} className="App-logo" alt="logo" />
         </header>
         <div className="App-intro">
-			 <h1 className="App-title">Welcome to EC Dev Web App....</h1>
+			 <h1 className="App-title">Welcome to EC Dev Web App...</h1>
         </div>
       </div>
     );
